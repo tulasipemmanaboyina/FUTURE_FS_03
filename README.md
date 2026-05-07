@@ -63,3 +63,7 @@ Tulasi Pemmanaboyina
 
 License
 This project was created for educational and internship purposes.
+Live Website
+https://brew-haven-kakinada.netlify.app
+GitHub Repository
+https://github.com/tulasipemmanaboyina/FUTURE_FS_03
